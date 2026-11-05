@@ -21,7 +21,7 @@ Aplikasi manajemen buku, penulis, dan kategori berbasis web dengan multi-role ac
 - [🎯 Tujuan Praktikum](#-tujuan-praktikum)
 - [✨ Fitur Utama](#-fitur-utama)
 - [🛠️ Tech Stack](#️-tech-stack)
-- [🗄️ Struktur Database](#️-struktur-database)
+
 
 ---
 
@@ -35,13 +35,13 @@ git clone [https://github.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-P
 cd 4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum7/authbook
 
 ```
-2. Install PHP Dependencies
+### 2. Install PHP Dependencies
 ```bash
 composer install
 ```
 
 
-3. Setup Environment (.env)
+### 3. Setup Environment (.env)
 
 ```bash
 cp .env.example .env
@@ -49,30 +49,30 @@ php artisan key:generate
 ```
 
 
-4. Setup Database & Seeding Data Dummy
+### 4. Setup Database & Seeding Data Dummy
 ```bash
 php artisan migrate:fresh --seed
 ```
 
-5. Membuat Account User / Admin Filament
+### 5. Membuat Account User / Admin Filament
 
 ```bash
 php artisan make:filament-user
 ```
 
-6. Jalankan Local Development Server
+### 6. Jalankan Local Development Server
 ```bash
 
 php artisan serve
 ```
 
-📌 Soal & Jawaban Tugas 2
+## 📌 Soal & Jawaban Tugas 2
 
-Tugas 2: Implementasi Multi-Role & Advanced Filament (Nilai: 60)
+Tugas 2: Implementasi Multi-Role & Advanced Filament 
 
 Implementasikan pengembangannya dengan menyusun manajemen Kategori, otorisasi 3 Hak Akses (Admin, Staff, User) menggunakan Laravel Policy, serta pembuktian screenshot untuk setiap role.
 
-💡 Jawaban Bukti Implementasi (Screenshot):
+## 💡 Jawaban Bukti Implementasi (Screenshot):
 A. Hak Akses Role Admin (Akses Penuh / Full Control)
 Dashboard Admin
 
@@ -171,11 +171,11 @@ Dashboard Admin
 5. **Detail Informasi Penulis (View Author User)**  
    ![View Author User](https://raw.githubusercontent.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum7/main/screenshot/user/view_author_user.jpeg)
 
-🎯 Tentang Aplikasi
+## 🎯 Tentang Aplikasi
 
 AuthBook versi lanjutan ini dikembangkan sebagai sistem manajemen pustaka digital yang mendukung Multi-Role Access Control dan pengelolaan entitas Kategori Buku. Aplikasi dibangun menggunakan Laravel 11 dan Filament v3, memungkinkan pengaturan otorisasi bertingkat antara Administrator (Admin), Staff, dan Reguler User.
 
-🎯 Tujuan Praktikum
+## 🎯 Tujuan Praktikum
 
 Memahami pengelolaan Multi-Role User pada Filament v3 Admin Panel.
 
@@ -185,7 +185,7 @@ Menyiapkan pengisian data otomatis (Data Seeding) untuk entitas Kategori, Penuli
 
 Menerapkan pengaturan izin hak akses terpusat menggunakan Laravel Policy untuk mengamankan tindakan Create, Read, Update, dan Delete (CRUD).
 
-✨ Fitur Utama
+## ✨ Fitur Utama
 
 ✅ Multi-Role Authentication & Authorization - Hak akses terbagi menjadi Admin (Akses Penuh), Staff (Create, Read, Update), dan User (Read Only).
 
@@ -199,7 +199,7 @@ Menerapkan pengaturan izin hak akses terpusat menggunakan Laravel Policy untuk m
 
 ✅ Policy-Based Control - Keamanan data diatur ketat via Laravel Authorization Policy.
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 Backend
 
@@ -216,13 +216,3 @@ Admin Panel & Frontend
 Filament v3 - Admin Panel Framework
 
 Tailwind CSS - UI Styling Framework
-
-🗄️ Struktur Database
-
-categories: id, name, slug, timestamps
-
-authors: id, name, timestamps
-
-books: id, isbn, title, category_id, author_id, publisher, year, cover, status, timestamps
-
-users: id, name, email, password, role (Admin/Staff/User), timestamps
