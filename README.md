@@ -1,36 +1,36 @@
-📘 Laporan Praktikum Pertemuan Ke - 7
+# 📘 Laporan Praktikum Pertemuan Ke - 7
 
 🧑‍🎓 Kholil Irsyad Marwan - 4524210110
 
-📚 Book Management System (AuthBook - Multi Role & Category)
+# 📚 Book Management System (AuthBook - Multi Role & Category)
 
 Aplikasi manajemen buku, penulis, dan kategori berbasis web dengan multi-role access (Admin, Staff, User) yang dibangun menggunakan Laravel 11 dan Filament v3 Admin Panel untuk Praktikum 7 Pemrograman Berbasis Web.
 
-📋 Daftar Isi
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-8.2-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP 8.2">
+  <img src="https://img.shields.io/badge/Laravel-11.x-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel 11">
+  <img src="https://img.shields.io/badge/Filament-v3-FDAE4B?style=for-the-badge&logo=filament&logoColor=black" alt="Filament v3">
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
+</p>
 
-🚀 Instalasi & Penggunaan
+## 📋 Daftar Isi
 
-📌 Soal & Jawaban Tugas 2
+- [🚀 Instalasi & Penggunaan](#-instalasi--penggunaan)
+- [📌 Soal & Jawaban Tugas 2](#-soal--jawaban-tugas-2)
+- [🎯 Tentang Aplikasi](#-tentang-aplikasi)
+- [🎯 Tujuan Praktikum](#-tujuan-praktikum)
+- [✨ Fitur Utama](#-fitur-utama)
+- [🛠️ Tech Stack](#️-tech-stack)
+- [🗄️ Struktur Database](#️-struktur-database)
 
-🎯 Tentang Aplikasi
+---
 
-🎯 Tujuan Praktikum
+## 🚀 Instalasi & Penggunaan
 
-✨ Fitur Utama
-
-🛠️ Tech Stack
-
-🗄️ Struktur Database
-
-📸 Hasil Screenshot Tampilan Aplikasi
-
-🚀 Instalasi & Penggunaan
-
-1. Clone Repository
-
+### 1. Clone Repository
 Buka terminal dan jalankan perintah clone untuk mengunduh repositori:
-
-git clone https://github.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum7.git
+```bash
+git clone [https://github.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum7.git](https://github.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum7.git)
 cd 4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum7/authbook
 
 
