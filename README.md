@@ -72,103 +72,112 @@ Tugas 2: Implementasi Multi-Role & Advanced Filament
 
 Implementasikan pengembangannya dengan menyusun manajemen Kategori, otorisasi 3 Hak Akses (Admin, Staff, User) menggunakan Laravel Policy, serta pembuktian screenshot untuk setiap role.
 
-## 💡 Jawaban Bukti Implementasi (Screenshot):
-A. Hak Akses Role Admin (Akses Penuh / Full Control)
-Dashboard Admin
+### 💡 Jawaban Bukti Implementasi (Screenshot):
 
 #### A. Hak Akses Role Admin (Full Control)
 
-1. **Dashboard Admin**  
+1. **Halaman Login Admin**  
+   ![Login Admin](https://raw.githubusercontent.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum7/main/screenshot/admin/login_admin.jpeg)
+
+2. **Dashboard Admin**  
    ![Dashboard Admin](https://raw.githubusercontent.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum7/main/screenshot/admin/dashbooard_admin.jpeg)
 
-2. **Daftar Buku Admin (Books List)**  
+3. **Daftar Buku Admin (Books List)**  
    ![List Books Admin](https://raw.githubusercontent.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum7/main/screenshot/admin/books_list_admin.jpeg)
 
-3. **Detail Informasi Buku (View Book Admin)**  
+4. **Detail Informasi Buku (View Book Admin)**  
    ![View Book Admin](https://raw.githubusercontent.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum7/main/screenshot/admin/view_books_admin.jpeg)
 
-4. **Form Edit Buku (Edit Book Admin)**  
+5. **Form Edit Buku (Edit Book Admin)**  
    ![Edit Book Admin](https://raw.githubusercontent.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum7/main/screenshot/admin/edit_books_admin.jpeg)
 
-5. **Hapus Data Buku (Delete Book Admin)**  
+6. **Hapus Data Buku (Delete Book Admin)**  
    ![Delete Book Admin](https://raw.githubusercontent.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum7/main/screenshot/admin/delete_books_admin.jpeg)
 
-6. **Kelola Data Kategori (Category List Admin)**  
+7. **Kelola Data Kategori (Category List Admin)**  
    ![Category List Admin](https://raw.githubusercontent.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum7/main/screenshot/admin/category_admin.jpeg)
 
-7. **Form Tambah Kategori (Add Category Admin)**  
+8. **Form Tambah Kategori (Add Category Admin)**  
    ![Add Category Admin](https://raw.githubusercontent.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum7/main/screenshot/admin/add_category.jpeg)
 
-8. **Form Edit Kategori (Edit Category Admin)**  
+9. **Form Edit Kategori (Edit Category Admin)**  
    ![Edit Category Admin](https://raw.githubusercontent.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum7/main/screenshot/admin/edit_category_admin.jpeg)
 
-9. **Hapus Data Kategori (Delete Category Admin)**  
-   ![Delete Category Admin](https://raw.githubusercontent.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum7/main/screenshot/admin/delete_category_admin.jpeg)
+10. **Hapus Data Kategori (Delete Category Admin)**  
+    ![Delete Category Admin](https://raw.githubusercontent.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum7/main/screenshot/admin/delete_category_admin.jpeg)
 
-10. **Kelola Data Penulis (Author List Admin)**  
+11. **Kelola Data Penulis (Author List Admin)**  
     ![Author List Admin](https://raw.githubusercontent.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum7/main/screenshot/admin/author_admin.jpeg)
 
-11. **Form Tambah Penulis (Add Author Admin)**  
+12. **Form Tambah Penulis (Add Author Admin)**  
     ![Add Author Admin](https://raw.githubusercontent.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum7/main/screenshot/admin/add_author_admin.jpeg)
 
-12. **Detail Informasi Penulis (View Author Admin)**  
+13. **Detail Informasi Penulis (View Author Admin)**  
     ![View Author Admin](https://raw.githubusercontent.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum7/main/screenshot/admin/view_author_admin.jpeg)
 
-13. **Form Edit Penulis (Edit Author Admin)**  
+14. **Form Edit Penulis (Edit Author Admin)**  
     ![Edit Author Admin](https://raw.githubusercontent.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum7/main/screenshot/admin/edit_author_admin.jpeg)
 
-14. **Hapus Data Penulis (Delete Author Admin)**  
+15. **Hapus Data Penulis (Delete Author Admin)**  
     ![Delete Author Admin](https://raw.githubusercontent.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum7/main/screenshot/admin/delete_author_admin.jpeg)
+
+---
 
 #### B. Hak Akses Role Staff (Create, Read, Update / Non-Delete)
 
-1. **Dashboard Staff**  
+1. **Halaman Login Staff**  
+   ![Login Staff](https://raw.githubusercontent.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum7/main/screenshot/staff/login_staff.jpeg)
+
+2. **Dashboard Staff**  
    ![Dashboard Staff](https://raw.githubusercontent.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum7/main/screenshot/staff/dashbooard_staff.jpeg)
 
-2. **Daftar Buku Staff (Books List)**  
+3. **Daftar Buku Staff (Books List)**  
    ![List Books Staff](https://raw.githubusercontent.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum7/main/screenshot/staff/books_list_staff.jpeg)
 
-3. **Form Tambah Buku (Create Book Staff)**  
+4. **Form Tambah Buku (Create Book Staff)**  
    ![Create Book Staff](https://raw.githubusercontent.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum7/main/screenshot/staff/create_books_staff.jpeg)
 
-4. **Daftar Kategori Staff (Category List)**  
+5. **Daftar Kategori Staff (Category List)**  
    ![Category List Staff](https://raw.githubusercontent.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum7/main/screenshot/staff/category_staff.jpeg)
 
-5. **Form Tambah Kategori (Create Category Staff)**  
+6. **Form Tambah Kategori (Create Category Staff)**  
    ![Create Category Staff](https://raw.githubusercontent.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum7/main/screenshot/staff/create_category_staff.jpeg)
 
-6. **Form Edit Kategori (Edit Category Staff)**  
+7. **Form Edit Kategori (Edit Category Staff)**  
    ![Edit Category Staff](https://raw.githubusercontent.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum7/main/screenshot/staff/edit_category_staff.jpeg)
 
-7. **Daftar Penulis Staff (Author List)**  
+8. **Daftar Penulis Staff (Author List)**  
    ![Author List Staff](https://raw.githubusercontent.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum7/main/screenshot/staff/author_staff.jpeg)
 
-8. **Form Tambah Penulis (Add Author Staff)**  
+9. **Form Tambah Penulis (Add Author Staff)**  
    ![Add Author Staff](https://raw.githubusercontent.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum7/main/screenshot/staff/add_author_staff.jpeg)
 
-9. **Detail Penulis (View Author Staff)**  
-   ![View Author Staff](https://raw.githubusercontent.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum7/main/screenshot/staff/view_author_staff.jpeg)
+10. **Detail Penulis (View Author Staff)**  
+    ![View Author Staff](https://raw.githubusercontent.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum7/main/screenshot/staff/view_author_staff.jpeg)
 
-10. **Pencarian Penulis (Search Author Staff)**  
+11. **Pencarian Penulis (Search Author Staff)**  
     ![Search Author Staff](https://raw.githubusercontent.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum7/main/screenshot/staff/search_author_staff.jpeg)
 
 ---
 
 #### C. Hak Akses Role User (Read Only)
 
-1. **Daftar Buku User (Books List - Read Only)**  
+1. **Halaman Login User**  
+   ![Login User](https://raw.githubusercontent.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum7/main/screenshot/user/login_user.jpeg)
+
+2. **Daftar Buku User (Books List - Read Only)**  
    ![List Books User](https://raw.githubusercontent.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum7/main/screenshot/user/books_list_user.jpeg)
 
-2. **Detail Informasi Buku (View Book User)**  
+3. **Detail Informasi Buku (View Book User)**  
    ![View Books User](https://raw.githubusercontent.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum7/main/screenshot/user/view_books.jpeg)
 
-3. **Daftar Kategori User (Category List - Read Only)**  
+4. **Daftar Kategori User (Category List - Read Only)**  
    ![Category List User](https://raw.githubusercontent.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum7/main/screenshot/user/category_user.jpeg)
 
-4. **Daftar Penulis User (Author List - Read Only)**  
+5. **Daftar Penulis User (Author List - Read Only)**  
    ![Author List User](https://raw.githubusercontent.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum7/main/screenshot/user/author_user.jpeg)
 
-5. **Detail Informasi Penulis (View Author User)**  
+6. **Detail Informasi Penulis (View Author User)**  
    ![View Author User](https://raw.githubusercontent.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum7/main/screenshot/user/view_author_user.jpeg)
 
 ## 🎯 Tentang Aplikasi
