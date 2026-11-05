@@ -33,12 +33,13 @@ Buka terminal dan jalankan perintah clone untuk mengunduh repositori:
 git clone [https://github.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum7.git](https://github.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum7.git)
 cd 4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum7/authbook
 
-
+'''
 2. Install PHP Dependencies
 
 Instal seluruh pustaka PHP yang dibutuhkan (termasuk Filament v3):
 
 composer install
+
 
 
 3. Setup Environment (.env)
