@@ -95,7 +95,7 @@ Implementasikan pengembangannya dengan menyusun manajemen Kategori, otorisasi 3 
 A. Hak Akses Role Admin (Akses Penuh / Full Control)
 Dashboard Admin
 
-🔗 Link Gambar: dashbooard_admin.jpeg
+🔗 Link Gambar: [dashbooard_admin.jpeg](https://github.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum7/blob/fb065c8d74e6ad03b5a188fb928f21dd14775b4e/screenshot/admin/add_author_admin.jpeg) 
 
 Daftar Buku Admin (Books List)
 
