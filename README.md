@@ -95,59 +95,49 @@ Implementasikan pengembangannya dengan menyusun manajemen Kategori, otorisasi 3 
 A. Hak Akses Role Admin (Akses Penuh / Full Control)
 Dashboard Admin
 
-🔗 Link Gambar: [dashbooard_admin.jpeg] https://github.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum7/blob/fb065c8d74e6ad03b5a188fb928f21dd14775b4e/screenshot/admin/add_author_admin.jpeg 
+#### A. Hak Akses Role Admin (Full Control)
 
-Daftar Buku Admin (Books List)
+1. **Dashboard Admin**  
+   ![Dashboard Admin](https://raw.githubusercontent.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum7/main/screenshot/admin/dashbooard_admin.jpeg)
 
-🔗 Link Gambar: books_list_admin.jpeg
+2. **Daftar Buku Admin (Books List)**  
+   ![List Books Admin](https://raw.githubusercontent.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum7/main/screenshot/admin/books_list_admin.jpeg)
 
-Detail Informasi Buku (View Book Admin)
+3. **Detail Informasi Buku (View Book Admin)**  
+   ![View Book Admin](https://raw.githubusercontent.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum7/main/screenshot/admin/view_books_admin.jpeg)
 
-🔗 Link Gambar: view_books_admin.jpeg
+4. **Form Edit Buku (Edit Book Admin)**  
+   ![Edit Book Admin](https://raw.githubusercontent.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum7/main/screenshot/admin/edit_books_admin.jpeg)
 
-Form Edit Buku (Edit Book Admin)
+5. **Hapus Data Buku (Delete Book Admin)**  
+   ![Delete Book Admin](https://raw.githubusercontent.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum7/main/screenshot/admin/delete_books_admin.jpeg)
 
-🔗 Link Gambar: edit_books_admin.jpeg
+6. **Kelola Data Kategori (Category List Admin)**  
+   ![Category List Admin](https://raw.githubusercontent.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum7/main/screenshot/admin/category_admin.jpeg)
 
-Hapus Data Buku (Delete Book Admin)
+7. **Form Tambah Kategori (Add Category Admin)**  
+   ![Add Category Admin](https://raw.githubusercontent.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum7/main/screenshot/admin/add_category.jpeg)
 
-🔗 Link Gambar: delete_books_admin.jpeg
+8. **Form Edit Kategori (Edit Category Admin)**  
+   ![Edit Category Admin](https://raw.githubusercontent.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum7/main/screenshot/admin/edit_category_admin.jpeg)
 
-Kelola Data Kategori (Category List Admin)
+9. **Hapus Data Kategori (Delete Category Admin)**  
+   ![Delete Category Admin](https://raw.githubusercontent.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum7/main/screenshot/admin/delete_category_admin.jpeg)
 
-🔗 Link Gambar: category_admin.jpeg
+10. **Kelola Data Penulis (Author List Admin)**  
+    ![Author List Admin](https://raw.githubusercontent.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum7/main/screenshot/admin/author_admin.jpeg)
 
-Form Tambah Kategori (Add Category Admin)
+11. **Form Tambah Penulis (Add Author Admin)**  
+    ![Add Author Admin](https://raw.githubusercontent.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum7/main/screenshot/admin/add_author_admin.jpeg)
 
-🔗 Link Gambar: add_category.jpeg
+12. **Detail Informasi Penulis (View Author Admin)**  
+    ![View Author Admin](https://raw.githubusercontent.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum7/main/screenshot/admin/view_author_admin.jpeg)
 
-Form Edit Kategori (Edit Category Admin)
+13. **Form Edit Penulis (Edit Author Admin)**  
+    ![Edit Author Admin](https://raw.githubusercontent.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum7/main/screenshot/admin/edit_author_admin.jpeg)
 
-🔗 Link Gambar: edit_category_admin.jpeg
-
-Hapus Data Kategori (Delete Category Admin)
-
-🔗 Link Gambar: delete_category_admin.jpeg
-
-Kelola Data Penulis (Author List Admin)
-
-🔗 Link Gambar: author_admin.jpeg
-
-Form Tambah Penulis (Add Author Admin)
-
-🔗 Link Gambar: add_author_admin.jpeg
-
-Detail Information Penulis (View Author Admin)
-
-🔗 Link Gambar: view_author_admin.jpeg
-
-Form Edit Penulis (Edit Author Admin)
-
-🔗 Link Gambar: edit_author_admin.jpeg
-
-Hapus Data Penulis (Delete Author Admin)
-
-🔗 Link Gambar: delete_author_admin.jpeg
+14. **Hapus Data Penulis (Delete Author Admin)**  
+    ![Delete Author Admin](https://raw.githubusercontent.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum7/main/screenshot/admin/delete_author_admin.jpeg)
 
 B. Hak Akses Role Staff (Create, Read, Update / Non-Delete)
 Dashboard Staff
