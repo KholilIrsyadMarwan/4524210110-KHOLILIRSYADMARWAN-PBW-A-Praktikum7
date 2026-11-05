@@ -31,60 +31,40 @@ Aplikasi manajemen buku, penulis, dan kategori berbasis web dengan multi-role ac
 Buka terminal dan jalankan perintah clone untuk mengunduh repositori:
 ```bash
 git clone [https://github.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum7.git](https://github.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum7.git)
+
 cd 4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum7/authbook
 
 ```
 2. Install PHP Dependencies
-
-Instal seluruh pustaka PHP yang dibutuhkan (termasuk Filament v3):
-
+```bash
 composer install
-
+```
 
 
 3. Setup Environment (.env)
 
-Salin file .env.example menjadi .env lalu generate application key:
-
+```bash
 cp .env.example .env
 php artisan key:generate
-
-
-Catatan Konfigurasi Database (SQLite):
-
-Pastikan di dalam file .env variabel database sudah terkonfigurasi ke SQLite:
-
-DB_CONNECTION=sqlite
+```
 
 
 4. Setup Database & Seeding Data Dummy
-
-Jalankan migrasi database untuk membuat tabel categories, authors, books, dan users, sekaligus mengisi data dummy dan role default:
-
+```bash
 php artisan migrate:fresh --seed
-
+```
 
 5. Membuat Account User / Admin Filament
 
-Buat akun pengguna untuk masing-masing role agar bisa menguji hak akses pada Filament Admin Panel:
-
+```bash
 php artisan make:filament-user
-
-
-Input data akun:
-
-Admin Role: admin@example.com | Password: password
-
-Staff Role: staff@example.com | Password: password
-
-User Role: user@example.com | Password: password
+```
 
 6. Jalankan Local Development Server
-
-Jalankan server bawaan Laravel:
+```bash
 
 php artisan serve
-
+```
 
 📌 Soal & Jawaban Tugas 2
 
