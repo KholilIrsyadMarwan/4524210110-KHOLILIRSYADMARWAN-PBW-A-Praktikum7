@@ -1,4 +1,4 @@
-📘 Laporan Praktikum Pertemuan Ke - 7
+[📘 Laporan Praktikum Pertemuan Ke - 7
 🧑‍🎓 Kholil Irsyad Marwan - 4524210110
 
 📚 Book Management System (AuthBook - Multi Role & Category)
@@ -240,3 +240,4 @@ authors: id, name, timestamps
 books: id, isbn, title, category_id, author_id, publisher, year, cover, status, timestamps
 
 users: id, name, email, password, role (Admin/Staff/User), timestamps
+](https://share.gemini.google/K6a2aXPHbW62)
