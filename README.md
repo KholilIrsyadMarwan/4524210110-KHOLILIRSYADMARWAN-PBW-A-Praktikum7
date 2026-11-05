@@ -139,67 +139,56 @@ Dashboard Admin
 14. **Hapus Data Penulis (Delete Author Admin)**  
     ![Delete Author Admin](https://raw.githubusercontent.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum7/main/screenshot/admin/delete_author_admin.jpeg)
 
-B. Hak Akses Role Staff (Create, Read, Update / Non-Delete)
-Dashboard Staff
+#### B. Hak Akses Role Staff (Create, Read, Update / Non-Delete)
 
-🔗 Link Gambar: dashbooard_staff.jpeg
+1. **Dashboard Staff**  
+   ![Dashboard Staff](https://raw.githubusercontent.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum7/main/screenshot/staff/dashbooard_staff.jpeg)
 
-Daftar Buku Staff (Books List)
+2. **Daftar Buku Staff (Books List)**  
+   ![List Books Staff](https://raw.githubusercontent.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum7/main/screenshot/staff/books_list_staff.jpeg)
 
-🔗 Link Gambar: books_list_staff.jpeg
+3. **Form Tambah Buku (Create Book Staff)**  
+   ![Create Book Staff](https://raw.githubusercontent.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum7/main/screenshot/staff/create_books_staff.jpeg)
 
-Form Tambah Buku (Create Book Staff)
+4. **Daftar Kategori Staff (Category List)**  
+   ![Category List Staff](https://raw.githubusercontent.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum7/main/screenshot/staff/category_staff.jpeg)
 
-🔗 Link Gambar: create_books_staff.jpeg
+5. **Form Tambah Kategori (Create Category Staff)**  
+   ![Create Category Staff](https://raw.githubusercontent.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum7/main/screenshot/staff/create_category_staff.jpeg)
 
-Daftar Kategori Staff (Category List)
+6. **Form Edit Kategori (Edit Category Staff)**  
+   ![Edit Category Staff](https://raw.githubusercontent.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum7/main/screenshot/staff/edit_category_staff.jpeg)
 
-🔗 Link Gambar: category_staff.jpeg
+7. **Daftar Penulis Staff (Author List)**  
+   ![Author List Staff](https://raw.githubusercontent.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum7/main/screenshot/staff/author_staff.jpeg)
 
-Form Tambah Kategori (Create Category Staff)
+8. **Form Tambah Penulis (Add Author Staff)**  
+   ![Add Author Staff](https://raw.githubusercontent.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum7/main/screenshot/staff/add_author_staff.jpeg)
 
-🔗 Link Gambar: create_category_staff.jpeg
+9. **Detail Penulis (View Author Staff)**  
+   ![View Author Staff](https://raw.githubusercontent.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum7/main/screenshot/staff/view_author_staff.jpeg)
 
-Form Edit Kategori (Edit Category Staff)
+10. **Pencarian Penulis (Search Author Staff)**  
+    ![Search Author Staff](https://raw.githubusercontent.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum7/main/screenshot/staff/search_author_staff.jpeg)
 
-🔗 Link Gambar: edit_category_staff.jpeg
+---
 
-Daftar Penulis Staff (Author List)
+#### C. Hak Akses Role User (Read Only)
 
-🔗 Link Gambar: author_staff.jpeg
+1. **Daftar Buku User (Books List - Read Only)**  
+   ![List Books User](https://raw.githubusercontent.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum7/main/screenshot/user/books_list_user.jpeg)
 
-Form Tambah Penulis (Add Author Staff)
+2. **Detail Informasi Buku (View Book User)**  
+   ![View Books User](https://raw.githubusercontent.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum7/main/screenshot/user/view_books.jpeg)
 
-🔗 Link Gambar: add_author_staff.jpeg
+3. **Daftar Kategori User (Category List - Read Only)**  
+   ![Category List User](https://raw.githubusercontent.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum7/main/screenshot/user/category_user.jpeg)
 
-Detail Penulis (View Author Staff)
+4. **Daftar Penulis User (Author List - Read Only)**  
+   ![Author List User](https://raw.githubusercontent.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum7/main/screenshot/user/author_user.jpeg)
 
-🔗 Link Gambar: view_author_staff.jpeg
-
-Pencarian Penulis (Search Author Staff)
-
-🔗 Link Gambar: search_author_staff.jpeg
-
-C. Hak Akses Role User (Read Only)
-Daftar Buku User (Books List - Read Only)
-
-🔗 Link Gambar: books_list_user.jpeg
-
-Detail Informasi Buku (View Book User)
-
-🔗 Link Gambar: view_books.jpeg
-
-Daftar Kategori User (Category List - Read Only)
-
-🔗 Link Gambar: category_user.jpeg
-
-Daftar Penulis User (Author List - Read Only)
-
-🔗 Link Gambar: author_user.jpeg
-
-Detail Informasi Penulis (View Author User)
-
-🔗 Link Gambar: view_author_user.jpeg
+5. **Detail Informasi Penulis (View Author User)**  
+   ![View Author User](https://raw.githubusercontent.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum7/main/screenshot/user/view_author_user.jpeg)
 
 🎯 Tentang Aplikasi
 
