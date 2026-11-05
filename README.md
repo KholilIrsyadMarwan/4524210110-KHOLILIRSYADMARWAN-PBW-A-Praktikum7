@@ -93,127 +93,66 @@ Implementasikan pengembangannya dengan menyusun manajemen Kategori, otorisasi 3 
 
 💡 Jawaban Bukti Implementasi (Screenshot):
 
-A. Hak Akses Role Admin (Akses Penuh / Full Control)
-
+A. Hak Akses Role Admin (Full Control)
 Dashboard Admin
-
-🔗 Link Gambar: dashbooard_admin.jpeg
 
 Daftar Buku Admin (Books List)
 
-🔗 Link Gambar: books_list_admin.jpeg
-
 Detail Informasi Buku (View Book Admin)
-
-🔗 Link Gambar: view_books_admin.jpeg
 
 Form Edit Buku (Edit Book Admin)
 
-🔗 Link Gambar: edit_books_admin.jpeg
-
 Hapus Data Buku (Delete Book Admin)
-
-🔗 Link Gambar: delete_books_admin.jpeg
 
 Kelola Data Kategori (Category List Admin)
 
-🔗 Link Gambar: category_admin.jpeg
-
 Form Tambah Kategori (Add Category Admin)
-
-🔗 Link Gambar: add_category.jpeg
 
 Form Edit Kategori (Edit Category Admin)
 
-🔗 Link Gambar: edit_category_admin.jpeg
-
 Hapus Data Kategori (Delete Category Admin)
-
-🔗 Link Gambar: delete_category_admin.jpeg
 
 Kelola Data Penulis (Author List Admin)
 
-🔗 Link Gambar: author_admin.jpeg
-
 Form Tambah Penulis (Add Author Admin)
 
-🔗 Link Gambar: add_author_admin.jpeg
-
-Detail Information Penulis (View Author Admin)
-
-🔗 Link Gambar: view_author_admin.jpeg
+Detail Informasi Penulis (View Author Admin)
 
 Form Edit Penulis (Edit Author Admin)
 
-🔗 Link Gambar: edit_author_admin.jpeg
-
 Hapus Data Penulis (Delete Author Admin)
 
-🔗 Link Gambar: delete_author_admin.jpeg
-
 B. Hak Akses Role Staff (Create, Read, Update / Non-Delete)
-
 Dashboard Staff
-
-🔗 Link Gambar: dashbooard_staff.jpeg
 
 Daftar Buku Staff (Books List)
 
-🔗 Link Gambar: books_list_staff.jpeg
-
 Form Tambah Buku (Create Book Staff)
-
-🔗 Link Gambar: create_books_staff.jpeg
 
 Daftar Kategori Staff (Category List)
 
-🔗 Link Gambar: category_staff.jpeg
-
 Form Tambah Kategori (Create Category Staff)
-
-🔗 Link Gambar: create_category_staff.jpeg
 
 Form Edit Kategori (Edit Category Staff)
 
-🔗 Link Gambar: edit_category_staff.jpeg
-
 Daftar Penulis Staff (Author List)
-
-🔗 Link Gambar: author_staff.jpeg
 
 Form Tambah Penulis (Add Author Staff)
 
-🔗 Link Gambar: add_author_staff.jpeg
-
 Detail Penulis (View Author Staff)
-
-🔗 Link Gambar: view_author_staff.jpeg
 
 Pencarian Penulis (Search Author Staff)
 
-🔗 Link Gambar: search_author_staff.jpeg
-
 C. Hak Akses Role User (Read Only)
-
 Daftar Buku User (Books List - Read Only)
-
-🔗 Link Gambar: books_list_user.jpeg
 
 Detail Informasi Buku (View Book User)
 
-🔗 Link Gambar: view_books.jpeg
-
 Daftar Kategori User (Category List - Read Only)
-
-🔗 Link Gambar: category_user.jpeg
 
 Daftar Penulis User (Author List - Read Only)
 
-🔗 Link Gambar: author_user.jpeg
-
 Detail Informasi Penulis (View Author User)
-
-🔗 Link Gambar: view_author_user.jpeg
 
 🎯 Tentang Aplikasi
 
